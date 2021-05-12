@@ -6,9 +6,7 @@
   font-family: "Poppins", sans-serif;
   text-decoration: none;
 }
-body {
-  scroll-behavior: smooth;
-}
+
 nav {
   position: absolute;
   width: 100%;
